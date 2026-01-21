@@ -3,9 +3,6 @@ Analiz Yorumu:
 Trend Analizi: Veri setindeki satışların Mayıs ve Haziran aylarında yoğunlaştığı gözlemlenmiştir. 
 Özellikle Mayıs ayı, hem Ciro (₺) hem de Satış Adedi bazında zirve noktayı oluşturmaktadır.
 
-Korelasyon: Satış adetleri ile toplam ciro paralel bir seyir izlemektedir;
-bu da kampanya dönemlerinde birim fiyatı yüksek ürünlerin (örneğin iPhone 14 gibi) satış hacmini koruduğunu göstermektedir.
-
 İş Kararı Notu: Mayıs ayındaki bu yükselişin nedenleri (mevsimsellik veya özel kampanya) baz alınarak,
 gelecek yılın aynı dönemi için stok planlaması ve pazarlama bütçesi optimize edilebilir.
 
